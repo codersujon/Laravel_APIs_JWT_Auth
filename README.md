@@ -1,4 +1,4 @@
-# 👨‍💼 Laravel REST APIs Development JWT (JSON Web Token)
+# 👨‍💼 Laravel REST APIs JWT (JSON Web Token)
 
 The default Users and Courses API Development with the help of JWT Authentication.
 
@@ -8,3 +8,10 @@ The default Users and Courses API Development with the help of JWT Authenticatio
 http://localhost:8000/api/
 
 ---
+
+## Tables: Default Users & Courses
+- **Users** `id, name, email, phone_no`  
+- **Courses** `id, user_id, title, description, total_videos`  
+
+
+## 📚 API Endpoints
