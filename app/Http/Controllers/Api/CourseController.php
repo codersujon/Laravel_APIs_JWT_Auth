@@ -5,13 +5,14 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Course;
+use App\Http\Requests\StoreUserRequest;
 
 class CourseController extends Controller
 {
     /**
      * Course Entrollment (POST, formdata)
      */
-    public function courseEntroll(Request $request){
+    public function courseEntroll(StoreCourseRequest $request){
 
     }
 
