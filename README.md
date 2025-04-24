@@ -14,6 +14,8 @@ http://localhost:8000/api/
 - **Courses** `id, user_id, title, description, total_videos`  
 
 ## JWT Package Installation Laravel 12:
+- **JWT Info** `https://jwt.io/`  
+
 - **Step 1** 
 
 ```markdown
